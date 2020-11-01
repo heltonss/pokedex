@@ -6,7 +6,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@drawable/background_trainner"
-        tools:context=".SplashActivity">
+        tools:context=".view.splash.SplashActivity"
+    >
 
     <ImageView
             android:alpha="0.8"
